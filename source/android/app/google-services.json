@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "542483388986",
+    "firebase_url": "https://minigames-d96fa.firebaseio.com",
+    "project_id": "minigames-d96fa",
+    "storage_bucket": "minigames-d96fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542483388986:android:d00798cec28a0f2ce47303",
+        "android_client_info": {
+          "package_name": "com.example.miniGames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542483388986-ibcngcs9pn5r3aur967vgtnlj2pqndlv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiBP7kAlwKSHMnz3fpyC1K1YX-0bKlqZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542483388986-ibcngcs9pn5r3aur967vgtnlj2pqndlv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "542483388986-6laqntp8tlbfk613dbie7btefc8h2gfh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.miniGames"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
