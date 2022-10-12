@@ -1,6 +1,6 @@
-# Mini games
+# Mobile application with mini games which are based on a grid. It was realized during the course of *Object-oriented programming on mobile devices* given by Laurent Mathy at the University of Liège. 
 
-Project for INFO-2051 (2020-2021).
+Application .
 
 ## Members
 Group's name: GoffartHoussaJoris
