@@ -3,10 +3,8 @@
 Mobile application with mini games which are based on a grid. It was realized during the course of *Object-oriented programming on mobile devices* given by Laurent Mathy at the University of Liège.
 
 ## Members
-Group's name: GoffartHoussaJoris
-- Goffart Maxime (20180521)
-- Houssa Louis (20181310). Decided to leave university and dropped the project at the beginning of November.
-- Joris Olivier (20182113)
+- Goffart Maxime
+- Joris Olivier
 
 ## How to build and run the code
 
